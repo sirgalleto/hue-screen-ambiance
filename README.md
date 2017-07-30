@@ -8,4 +8,10 @@
 
 ## Configuration
 
-- Set the name of the lights.
+- Set the name of the lights in `index.js:5`.
+
+## TODO
+
+- [ ] Clean the code.
+- [ ] Improve the color compatility.
+- [ ] Changue the screenshot cycle geting the file instead save the file and get the file again with fs.
