@@ -1,0 +1,18 @@
+{
+    "name": "hue-screen-ambiance",
+    "version": "1.0.0",
+    "description": "Change the color of your hue lights to the screen dominant color",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sebatián Osorio <sir@galleto.xyz>",
+    "license": "MIT",
+    "dependencies": {
+        "color-thief": "^2.2.2",
+        "desktop-screenshot": "^0.1.1",
+        "huejay": "^1.5.0",
+        "lodash": "^4.17.4",
+        "lowdb": "^0.16.2"
+    }
+}
