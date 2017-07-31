@@ -60,3 +60,4 @@ typings/
 # app
 
 *.screenshot.png
+db.json
