@@ -4,7 +4,9 @@
     "description": "Change the color of your hue lights to the screen dominant color",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon --ignore .screenshot.png --ignore db.json"
     },
     "author": "Sebatián Osorio <sir@galleto.xyz>",
     "license": "MIT",
@@ -14,5 +16,8 @@
         "huejay": "^1.5.0",
         "lodash": "^4.17.4",
         "lowdb": "^0.16.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.11.0"
     }
 }
