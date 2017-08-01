@@ -14,4 +14,5 @@
 
 - [ ] Clean the code.
 - [ ] Improve the color compatility.
-- [ ] Changue the screenshot cycle geting the file instead save the file and get the file again with fs.
+- [ ] Change the screenshot cycle geting the file instead save the file and get the file again with fs.
+- [ ] Use a directory to save the generated files.
